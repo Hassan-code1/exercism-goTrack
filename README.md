@@ -13,7 +13,9 @@ Learning Go through:
 
 <!-- EXERCISM_STATS_START -->
 
-Loading stats...
+- 👤 Username: 
+- 🏆 Reputation: 0
+- 📅 Last Updated: Auto Updated
 
 <!-- EXERCISM_STATS_END -->
 
